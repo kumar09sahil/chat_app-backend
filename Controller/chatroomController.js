@@ -223,7 +223,7 @@ exports.get_chatroom_messages = async (req, res, next) => {
         console.log(roomMessages);
 
         const formattedMessages = roomMessages.messages.map(message => {
-            const createdAt = new Date(message.createdAt); ct
+            const createdAt = new Date(message.createdAt); 
 
             const formattedDate = createdAt.toISOString().slice(0, 10); 
             const formattedTime = createdAt.toTimeString().slice(0, 8); 
