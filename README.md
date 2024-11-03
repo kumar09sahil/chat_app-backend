@@ -23,10 +23,10 @@ chatroom_delete_MEssage: PATCH http://localhost:5000/chat_app/v1/chatroom/delete
 1vs1 deleteMessage: DELETE http://localhost:5000/chat_app/v1/auth/delete_message <br> <br>
 
 **Images of Route** <br>
-**Login** ![image](https://github.com/user-attachments/assets/a01d9689-0b03-469d-af49-1c59937e021b) <br>
-**Create_Room**: ![image](https://github.com/user-attachments/assets/49ced0a2-7721-44f2-9629-85dd53e799b3) <br>
-**Join Room**: ![image](https://github.com/user-attachments/assets/36c2017f-3b78-4bc2-b819-3a4ce07dd280) <br>
-**Get Chatroo Messages**: ![image](https://github.com/user-attachments/assets/465d7dec-c153-43fd-b9f0-cac311439b3a) <br>
-**Send chatroom Message**: ![image](https://github.com/user-attachments/assets/cd88c5e0-4360-40c9-ba32-d6b3ea15d237) <br>
-**GET 1vs1 Message**: ![image](https://github.com/user-attachments/assets/e764290c-24d4-4614-b71e-ec91a3fcfd2c) <br> 
-**send 1vs1 Message**: ![image](https://github.com/user-attachments/assets/b931c877-a218-4a3d-9800-7748ee151f4d) <br>
+**Login** <br> ![image](https://github.com/user-attachments/assets/a01d9689-0b03-469d-af49-1c59937e021b) <br> <br>
+**Create_Room**: <br> ![image](https://github.com/user-attachments/assets/49ced0a2-7721-44f2-9629-85dd53e799b3) <br> <br>
+**Join Room**: <br> ![image](https://github.com/user-attachments/assets/36c2017f-3b78-4bc2-b819-3a4ce07dd280) <br> <br>
+**Get Chatroo Messages**: <br> ![image](https://github.com/user-attachments/assets/465d7dec-c153-43fd-b9f0-cac311439b3a) <br> <br>
+**Send chatroom Message**: <br> ![image](https://github.com/user-attachments/assets/cd88c5e0-4360-40c9-ba32-d6b3ea15d237) <br> <br>
+**GET 1vs1 Message**: <br> ![image](https://github.com/user-attachments/assets/e764290c-24d4-4614-b71e-ec91a3fcfd2c) <br> <br>
+**send 1vs1 Message**: <br> ![image](https://github.com/user-attachments/assets/b931c877-a218-4a3d-9800-7748ee151f4d) <br> <br>
